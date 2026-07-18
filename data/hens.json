@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "breed": "Aseel",
+    "age": "10 Months",
+    "purpose": "Fighting",
+    "price": 7500,
+    "image": "images/aseel.jpg"
+  },
+  {
+    "id": 2,
+    "breed": "Kadaknath",
+    "age": "8 Months",
+    "purpose": "Breeding",
+    "price": 2800,
+    "image": "images/kadaknath.jpg"
+  },
+  {
+    "id": 3,
+    "breed": "Country Chicken",
+    "age": "12 Months",
+    "purpose": "Breeding",
+    "price": 1800,
+    "image": "images/country_chicken.jpg"
+  }
+]
